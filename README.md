@@ -1,4 +1,4 @@
-# Hi, I'm [Simeon Mladenov]! 👋
+# Hi, I'm Simeon Mladenov and 24 sad years old! 👋
 
 I am currently learning the hell out of the C++ language
 13 years of C++ development and I can't fucking solve one simple algorithm task (im not for this job)
@@ -6,13 +6,16 @@ I am currently learning the hell out of the C++ language
 My plans for this 2025 year will be to ... bla bla bla
 - SQL3
 - ASM
+- LUA most likely
+- HLSL (not in this life)
 
 ## 🚀 Projects
-the main shit that im currently working on:
+The main shit that im currently working on:
 - [Game Engine](https://github.com/simo8902/idk) - An simple game engine built with C++ and OpenGL
 
 ## 🛠️ Skills & Technologies
 - C++, OpenGL, IMGui
+- Vulkan, SPIR-V (after some work with this I decide not to ruin my life with this)
 - Git, CMake, NMake, LLVM
 - Game Development, Engine Architecture, User Interface, Reverse Engineering
 - Html, PHP, CSS, C#, C, Python, Basic, Lua 
