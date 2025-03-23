@@ -19,7 +19,7 @@ The main shit that im currently working on:
 - Git, CMake, NMake, LLVM
 - Game Development, Engine Architecture, User Interface, Reverse Engineering
 - Html, PHP, CSS, C#, C, Python, Basic, Lua 
-- Unity, Unreal, Game Maker 2 and many more that I forgot
+- Unity, Unreal, Game Maker 2, Blender, Maya, Adobe PS and AE, 3ds Max and many more that I forgot
 
 ## 📈 GitHub Stats
 ![Some useless stats](https://github-readme-stats.vercel.app/api/top-langs/?username=simo8902&theme=buefy&show_icons=true&hide_border=true&layout=compact)
