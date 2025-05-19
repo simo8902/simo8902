@@ -1,13 +1,15 @@
 # Hi, I'm Simeon Mladenov and 24 sad years old! 👋
 
 I am currently learning the hell out of the C++ language
-13 years of C++ development and I can't fucking solve one simple algorithm task (im not for this job)
+13 years of C++ development and I can't fucking solve one simple algorithm task (im cooked)
 
 My plans for this 2025 year will be to ... bla bla bla
 - SQL3
 - ASM
 - LUA most likely
-- HLSL (not in this life)
+- HLSL
+- C# Unity
+- and VOILA JAVA OUT OF NOWHERE
 
 ## 🚀 Projects
 The main shit that im currently working on:
