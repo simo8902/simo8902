@@ -1,15 +1,16 @@
-# Hi, I'm Simeon Mladenov and 24 sad years old! 👋
+# Hi, I'm Simeon Mladenov and 25 sad years old! 👋
 
 I am currently learning the hell out of the C++ language
-13 years of C++ development and I can't fucking solve one simple algorithm task (im cooked)
+14 years of C++ development and I can't fucking solve one simple algorithm task
+
+Support my Unity stuff pwease 🙏 [Simeon Mladenov](https://assetstore.unity.com/publishers/117490)
 
 My plans for this 2025 year will be to ... bla bla bla
 - SQL3
 - ASM
 - LUA most likely
-- HLSL
 - C# Unity
-- and VOILA JAVA OUT OF NOWHERE
+- JAVA
 
 ## 🚀 Projects
 The main shit that im currently working on:
@@ -17,15 +18,15 @@ The main shit that im currently working on:
 
 ## 🛠️ Skills & Technologies
 - C++, OpenGL, IMGui
-- Vulkan, SPIR-V (after some work with this I decide not to ruin my life with this)
+- Vulkan, SPIR-V
 - Git, CMake, NMake, LLVM
-- Game Development, Engine Architecture, User Interface, Reverse Engineering
 - Html, PHP, CSS, C#, C, Python, Basic, Lua 
-- Unity, Unreal, Game Maker 2, Blender, Maya, Adobe PS and AE, 3ds Max and many more that I forgot
+- Unity, Unreal, Game Maker 2, Blender, Maya, AE, 3ds Max and many more that I forgot
+- Photoshop, Premiere Pro, OBS, FL Studio
 
 ## 📈 GitHub Stats
 ![Some useless stats](https://github-readme-stats.vercel.app/api/top-langs/?username=simo8902&theme=buefy&show_icons=true&hide_border=true&layout=compact)
 
-## 💬 Don't contact me! I don't like that, but if u insist...
+## 💬 SUPPORT, I guess
 - Business Email: [fedya7h1@gmail.com]
 - Private Email: [moni_mladenov78@abv.bg]
